@@ -1,0 +1,16 @@
+$body-color:red;
+$div-width:200px;
+$div-height:200px;
+$div-background:blue;
+$div-text:center;
+$div-liheight:200px;
+body{
+	color: $body-color;
+}
+div{
+	width: $div-width;
+	height:$div-height ;
+	background-color: $div-background;
+	text-align: $div-text;
+	line-height: $div-liheight;
+}

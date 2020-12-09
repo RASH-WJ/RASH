@@ -1,0 +1,14 @@
+html{
+	font-size: 50px;
+}
+body{
+	background-color: palegreen;
+}
+div p {
+  /* 引用变量 */
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  font-size: 30px;
+}
+
